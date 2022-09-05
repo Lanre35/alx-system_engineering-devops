@@ -1,2 +1,2 @@
-#!/bin/bash
-"(Ôo)'
+echo '#!/bin/bash'
+echo "(Ôo)'
